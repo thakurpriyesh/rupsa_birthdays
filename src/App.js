@@ -344,7 +344,7 @@ const LoveLetter = () => {
         
         <div className="mt-12 text-right">
           <p className="text-gray-500 mb-2 font-bold uppercase tracking-widest text-sm">Forever Yours,</p>
-          <p className="font-handwriting text-5xl text-rose-500">Your Love 💖</p>
+          <p className="font-handwriting text-5xl text-rose-500">Priyesh 💖</p>
         </div>
       </div>
     </div>
